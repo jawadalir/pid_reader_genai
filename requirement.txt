@@ -1,0 +1,12 @@
+
+# Core app framework
+streamlit>=1.25.0
+
+# OpenAI client
+openai>=1.30.0
+
+# PDF rendering
+PyMuPDF>=1.23.0
+
+# Optional (nice to have, ensures compatibility)
+pillow>=9.5.0
